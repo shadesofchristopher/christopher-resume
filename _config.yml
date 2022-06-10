@@ -19,7 +19,7 @@
           View in your space
       </button>
       <div id="ar-prompt">
-          <src="resume.usdz">
+          <src="Resume 2.usdz">
       </div>
     </model-viewer>  
     <script src="script.js"></script>
