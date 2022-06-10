@@ -19,7 +19,7 @@
           View in your space
       </button>
       <div id="ar-prompt">
-          <img src="ar_hand_prompt.png">
+          <src="resume.usdz">
       </div>
     </model-viewer>  
     <script src="script.js"></script>
